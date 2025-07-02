@@ -1,0 +1,17 @@
+confusing_images
+dataset
+dataset-sample
+dataset2
+fitzpatrick17k
+images
+plots
+questionnaire
+skin_disease_images
+
+/confusion_matrix.png
+/download_errors.log
+/fitzpatrick17k.csv
+/questionnaire.py
+/validation_table.csv
+.idea
+.idea/*
