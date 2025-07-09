@@ -29,7 +29,6 @@ categories = ["acne", "eczema", "keloids", "fungal_infections", "pseudofolliculi
 
 
 @app.post("/predict")
-@app.post("/predict")
 async def predict(file: UploadFile = File(...)):
     try:
         if not file.content_type.startswith('image/'):
